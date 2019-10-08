@@ -18,9 +18,9 @@ Given I can access the application
                 When I enter "credentials"
                 Then I can login with those "credentials"
 
-                        |credentials|
-                        |alice@localhost:password:Alice:Angular|
-                        |bob@localhost:password:Bob:BourneShell|
-                        |eve@localhost:password:Eve:Eiffel|
+                        | credentials |
+                        | Alice |
+                        | Bob |
+                        | Eve |
 
 
