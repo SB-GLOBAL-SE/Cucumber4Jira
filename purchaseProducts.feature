@@ -14,10 +14,10 @@ And I add it to the cart
 When I go through a "style" checkout
 Then my order is complete
 
-Style | product
-Credit Card | BD Player
-Offline | Xbox
-Credit Card | iPhone
-Offline | TV
+        | Style | product |
+        | Credit Card | BD Player |
+        | Offline | Xbox |
+        | Credit Card | iPhone |
+        | Offline | TV |
 
 
