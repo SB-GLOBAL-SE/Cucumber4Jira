@@ -1,6 +1,6 @@
 Feature: Purchase some products on our web store
 
-Background: As a customer I want to be able to purchase items and then pay for them
+As a customer I want to be able to purchase items and then pay for them
 
 Scenario: Add a BD Player to the cart
 Given I have logged in

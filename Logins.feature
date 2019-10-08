@@ -1,6 +1,6 @@
 Feature: Logging into the Application
 
-        Background: As a customer, I want to be able to register for and access the shopping site
+As a customer, I want to be able to register for and access the shopping site
 
 Scenario: A Happy Path Login
 Given I can access the application
